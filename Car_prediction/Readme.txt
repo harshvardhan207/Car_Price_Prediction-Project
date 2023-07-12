@@ -1,1 +1,0 @@
-Run the app.py file stored in "Car-Price-Prediction-master" folder to start the web application. 
